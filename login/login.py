@@ -13,7 +13,7 @@ while(loop =='true'):
     password = input("Enter password: ")
     
     #if username & password correct it will pass
-    if (username == "Hutotpn" and password == "Huto121155"):
+    if (username == "Hutotpn" and password == "1234"):
         print('Login successfully ' + username)
         time.sleep(0.03)
         print('Login successfully ' + username)
@@ -79,8 +79,8 @@ while(loop =='true'):
             #commands
             if(command == "drive"):
                 time.sleep(1)
-                print("Email: private.hutotpn@gmail.com ")
-                print("Password: Huto235796")
+                print("Email: contact.hutotpn@gmail.com ")
+                print("Password: 1234")
 
             if(command == "exit"):
                 print("Logout successfully")
