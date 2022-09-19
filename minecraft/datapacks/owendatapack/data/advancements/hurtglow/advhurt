@@ -1,0 +1,11 @@
+{
+    "__comment": "Made with TheDestruc7i0n's advancements generator: https://advancements.thedestruc7i0n.ca",
+    "criteria": {
+        "HurtEntity": {
+            "trigger": "minecraft:player_hurt_entity"
+        }
+    },
+    "rewards": {
+        "function": "simpledrawer:hurtglow/effect"
+    }
+}
